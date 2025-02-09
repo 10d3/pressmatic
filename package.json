@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc",
     "prepublish": "npm run build",
@@ -27,7 +28,11 @@
     "ecommerce",
     "print-on-demand"
   ],
-  "author": "10d3",
-  "license": "ISC",
-  "description": ""
+  "author": "10d3 <ffast2000@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/10d3/pressmatic"
+  }
 }
