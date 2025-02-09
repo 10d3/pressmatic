@@ -1,0 +1,33 @@
+{
+  "name": "pressmatic",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/glob": "^8.1.0",
+    "axios": "^1.6.2",
+    "lru-cache": "^11.0.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.11.5",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.2"
+  },
+  "keywords": [
+    "printify",
+    "api",
+    "client",
+    "ecommerce",
+    "print-on-demand"
+  ],
+  "author": "10d3",
+  "license": "ISC",
+  "description": ""
+}
