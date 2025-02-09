@@ -1,12 +1,11 @@
 ---
----
 title: Pressmatic Printify Client
-description: Your friendly helper for building print-on-demand apps 🤖🖨️
+description: Your friendly helper for building print-on-demand apps
 ---
 
 # Pressmatic Printify Client
 
-Your friendly helper for building print-on-demand apps 🤖🖨️
+Your friendly helper for building print-on-demand apps
 
 ## Installation
 
@@ -153,15 +152,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Acknowledgements
 
-Special thanks to the Printify team for their API and support.
-
-```jsx
-import { Callout } from 'nextra/components'; // Assuming you're using Nextra for docs
-
-<Callout type="info" emoji="💡">
-    Pro Tip: Grab your API key from the [Printify Dashboard](https://printify.com/app/dashboard)
-</Callout>
-```
+Special thanks to the Printify team for their API.
 
 ## Author
 
