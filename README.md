@@ -1,8 +1,3 @@
----
-title: Pressmatic Printify Client
-description: Your friendly helper for building print-on-demand apps
----
-
 # Pressmatic Printify Client
 
 Your friendly helper for building print-on-demand apps
