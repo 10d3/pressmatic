@@ -1,5 +1,5 @@
 // Base configuration
-export interface PrintifyConfig {
+export interface PressmaticConfig {
   apiKey: string;
   endpoint: string;
   userAgent?: string;
@@ -83,4 +83,12 @@ export interface PaginationParams {
 export interface ShippingOption {
   id: number;
   title: string;
+}
+
+export interface Shop {
+  id: string;
+  name: string;
+  currency: string;
+  created_at: string;
+  updated_at: string;
 }
